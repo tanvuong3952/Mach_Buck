@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=Net*1_7 Pin=R8-1
+Removed Pin From Net: NetName=G1 Pin=R8-2
+Removed Pin From Net: NetName=Net*1_1 Pin=R10-1
+Removed Pin From Net: NetName=G2 Pin=R10-2
+Change Component Footprint: Designator=R1 Old Footprint=RES 1/2W New Footprint=RES-SM-0805
+Change Component Footprint: Designator=R2 Old Footprint=RES 1/2W New Footprint=RES-SM-0805
+Change Component Footprint: Designator=R3 Old Footprint=RES 1/2W New Footprint=RES-SM-0805
+Change Component Footprint: Designator=R4 Old Footprint=RES 1/2W New Footprint=RES-SM-0805
+Change Component Footprint: Designator=R6 Old Footprint=RES 1/2W New Footprint=RES-SM-0805
+Change Component Footprint: Designator=R7 Old Footprint=RES 1/2W New Footprint=RES-SM-0805
+Change Component Footprint: Designator=R8 Old Footprint=RES 1/2W New Footprint=RES-SM-0805
+Change Component Footprint: Designator=R9 Old Footprint=RES 1/2W New Footprint=RES-SM-0805
+Change Component Footprint: Designator=R10 Old Footprint=RES 1/2W New Footprint=RES-SM-0805
+Change Component Comment : Designator=R1 Old Comment=RESISTOR New Comment=Resistor 1/4W
+Change Component Comment : Designator=R2 Old Comment=RESISTOR New Comment=Resistor 1/4W
+Change Component Comment : Designator=R3 Old Comment=RESISTOR New Comment=Resistor 1/4W
+Change Component Comment : Designator=R6 Old Comment=RESISTOR New Comment=Resistor 1/4W
+Change Component Comment : Designator=R8 Old Comment=RESISTOR New Comment=Resistor 1/4W
+Change Component Comment : Designator=R9 Old Comment=RESISTOR New Comment=Resistor 1/4W
+Change Component Comment : Designator=R10 Old Comment=RESISTOR New Comment=Resistor 1/4W
+Added Pin To Net: NetName=G1 Pin=R8-1
+Added Pin To Net: NetName=Net*1_7 Pin=R8-2
+Added Pin To Net: NetName=G2 Pin=R10-1
+Added Pin To Net: NetName=Net*1_1 Pin=R10-2
+Added Room: Name=SCHEMATIC_BUCK_OFFICIAL

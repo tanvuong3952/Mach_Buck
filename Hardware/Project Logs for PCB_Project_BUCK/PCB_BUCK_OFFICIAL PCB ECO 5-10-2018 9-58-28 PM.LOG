@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=LM1 NewDesignator=LM7805
+Change Component Designator: OldDesignator=LM2 NewDesignator=LM1117
+Added Room: Name=SCHEMATIC_BUCK_OFFICIAL
